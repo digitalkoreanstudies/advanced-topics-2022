@@ -1,12 +1,3 @@
 theme: jekyll-theme-minimal
-title: "Advanced Topics in Digital Korean Studies: International Symposia & Project Incubation Program"
-name: "Name"
-description: Description Appears Here
-url: https://digitalkoreanstudies.github.io/
-author:
- name   : "Javier Cha"
- bio    : "Associate Professor of East Asian Studies, College of Liberal Studies, Seoul National University"
-
-footer:
- links:
-  - label: "Hi"
+title: "Advanced Topics in Digital Korean Studies"
+description: 
