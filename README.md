@@ -1,6 +1,6 @@
 # Advanced Topics in Digital Korean Studies: International Symposia & Project Incubation Program
 ## 18 to 30 May 2022 at Seoul National University
-## 23 to 25 June 2022 at the University of Copenhagen
+## 22 to 25 June 2022 at the University of Copenhagen
 
 The uses and application of digital methods have become commonplace in Korean studies. Despite the challenges caused by the Covid-19 pandemic, the superb collection of online archives and digital libraries made academic research about Korea possible. This heightened awareness of the field’s digital transformation begs the question: who created those databases, and how do we utilize them effectively?
 
@@ -15,3 +15,23 @@ From June 23th to 25th, 2022, the Korean Studies Programme at the University of 
 Due to its nature and aims, both May and June events will be conducted in-person. Some keynote lectures, however, will be considered for streaming in a hybrid conference format.
 
 Please note that both May and June events may be rescheduled or canceled pursuant to the Covid-19 policies of South Korea and Denmark, respectively. Prospective participants are asked to plan accordingly.
+
+### Confirmed Keynote Speakers
+Ruth Mostern (University of Pittsburgh)
+Hilde De Weerdt (Leiden University)
+Timothy Tangherlini (UC Berkeley)
+Lev Manovich (CUNY)
+Lee Kyogu (Seoul National University)
+Wayne DeFremery (Sogang University)
+
+### Distinguished Lecturers
+Kim Baro (Academy of Korean Studies)*
+Ryu Intae (Sungkyunkwan University)
+Kim Byungjun (Sungkyunkwan University)
+Jacob Reidhead (National Chengchi University)*
+Paul Vierthaler (College of William and Mary)
+Martin Steinegger (Seoul National University)
+Hu Jing (Leiden University)
+Miguel Escobar Varela (National University of Singapore)
+Suk Jihoon (Yonsei University)
+Kwon Bohyoun (Playable Consulting)
