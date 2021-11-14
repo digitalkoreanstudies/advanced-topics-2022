@@ -17,21 +17,21 @@ Due to its nature and aims, both May and June events will be conducted in-person
 Please note that both May and June events may be rescheduled or canceled pursuant to the Covid-19 policies of South Korea and Denmark, respectively. Prospective participants are asked to plan accordingly.
 
 ### Confirmed Keynote Speakers
-Ruth Mostern (University of Pittsburgh)
-Hilde De Weerdt (Leiden University)
-Timothy Tangherlini (UC Berkeley)
-Lev Manovich (CUNY)
-Lee Kyogu (Seoul National University)
-Wayne DeFremery (Sogang University)
+* Ruth Mostern (University of Pittsburgh)
+* Hilde De Weerdt (Leiden University)
+* Timothy Tangherlini (UC Berkeley)
+* Lev Manovich (CUNY)
+* Lee Kyogu (Seoul National University)
+* Wayne DeFremery (Sogang University)
 
 ### Distinguished Lecturers
-Kim Baro (Academy of Korean Studies)*
-Ryu Intae (Sungkyunkwan University)
-Kim Byungjun (Sungkyunkwan University)
-Jacob Reidhead (National Chengchi University)*
-Paul Vierthaler (College of William and Mary)
-Martin Steinegger (Seoul National University)
-Hu Jing (Leiden University)
-Miguel Escobar Varela (National University of Singapore)
-Suk Jihoon (Yonsei University)
-Kwon Bohyoun (Playable Consulting)
+* Kim Baro (Academy of Korean Studies)*
+* Ryu Intae (Sungkyunkwan University)
+* Kim Byungjun (Sungkyunkwan University)
+* Jacob Reidhead (National Chengchi University)*
+* Paul Vierthaler (College of William and Mary)
+* Martin Steinegger (Seoul National University)
+* Hu Jing (Leiden University)
+* Miguel Escobar Varela (National University of Singapore)
+* Suk Jihoon (Yonsei University)
+* Kwon Bohyoun (Playable Consulting)
